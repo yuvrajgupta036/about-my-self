@@ -11,6 +11,6 @@ I'm a full-stack developer with over a year of experience in building scalable a
 ### Languages and Tools I've Used
 <br>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,react,nextjs,redux,aws,mongodb,redis,html,css,git,github,postman,docker,figma,vercel,netlify,jira,bootstrap,sass&perline=7" />
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,react,nextjs,redux,aws,mongodb,redis,html,css,git,github,postman,docker,netlify,jira,bootstrap,sass&perline=7" />
 </p>
 <br><br>
